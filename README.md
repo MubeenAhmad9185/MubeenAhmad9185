@@ -28,8 +28,7 @@
 
 - 🎲 Guess the Number (Python CLI)
 - 🔤 Hangman Game (Python CLI)
-- 📈 Simple Linear Regression (Scikit-learn)
-- 📊 Data Visualization with Matplotlib
+- 📈 Simple Linear Regression
 
 ---
 
